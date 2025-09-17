@@ -8,3 +8,4 @@
 1. `npm i -D vitest @vitest/browser vitest-browser-react` -- Install testing libraries
 1. `npm i -D nodemon npm-run-all` -- Install build tools
 1. `npm i -D @changesets/cli` -- Install release tools
+1. `./node_modules/.bin/changeset init` -- Initialize changeset
